@@ -1,15 +1,16 @@
 # 100 Days Of Code - Log
 
-2 Days Warm to Start the Count
+2 Days Warm Up to Start the Count
 
-Warm Up
-Day 0: April 20, 2019
+Warm Up Day 1
+Day 1: April 20, 2019
 
-** Today's Progress**: Refreshed my CSS Skills by completing some challenges on FreeCodeCamp. Learnt how to use a custom CSS Variable Attach a Fallback value to a CSS Variable and improve browser compatability.
+** Today's Progress**: Refreshed my CSS Skills by completing some challenges on FreeCodeCamp. Learnt how to use a custom CSS Variable, Attach a Fallback value to a CSS Variable and improve browser compatability.
 
 **Thoughts:*** It was a real eye opener learning about Custom CSS Variable because I had no knowledge of it.
 
 
+/**
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -37,4 +38,4 @@ Day 0: April 20, 2019
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) **/
