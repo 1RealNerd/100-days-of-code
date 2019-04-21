@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## 2 Days Warm Up to Start the Count
+## The WarmUp before the Start
 
 ## Warm Up Day 0: April 20, 2019
 
