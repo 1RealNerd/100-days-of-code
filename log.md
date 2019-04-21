@@ -8,7 +8,7 @@
 
 **Thoughts:*** It was a real eye opener learning about Custom CSS Variable because I had no knowledge of it. Also It helped me recall some stuffs on HTML and CSS
 
-**Link To Work**:
+**Link To Work**: Uploading Soon
 
 ## Warm Up Day 0.5: April 21, 2019
 
