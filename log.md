@@ -18,5 +18,13 @@
 
 
 
+### The Start
 
+###  Day 1: May 1, 2019
+
+**Today's Progress**: Took off from where I ended, finished the  AA and RWD section of FreeCodeCamp, Started work on my Survey Form, and Refresed my mind with this codepen https://codepen.io/1realnerd/pen/ZZNZYE
+
+**Link To Work**: https://codepen.io/1realnerd/pen/ZZNZYE
+
+**Thoughts**: Good One
 
