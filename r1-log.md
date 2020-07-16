@@ -4,7 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [July 16th 2020].
 
 ## Log
 
-### R1D1 
-Started work on my FCC Technical Documentation Page https://codepen.io/1realnerd/pen/YzyrrOj
+### Day 1: July 16, 2020
 
-### R1D2
+**Today's Progress**: 
+
+**Thoughts:*** 
+
+**Link To Work**: 
