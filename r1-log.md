@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [1RealNerd]
 
-The log of my #100DaysOfCode challenge. Started on [May 1st 2020].
+The log of my #100DaysOfCode challenge. Started on [July 16th 2020].
 
 ## Log
 
